@@ -1,7 +1,7 @@
 # Cari apa ?
 ## Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup)
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/ARI_VPN_STORE/)
+[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/ARI_VPN_STORE_grup)
 
 # Buy me a coffee
 [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-blue)](https://paypal.me/givpn11)

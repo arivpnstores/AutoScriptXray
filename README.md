@@ -92,8 +92,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 
 # Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/)
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/ARI_VPN_STORE/)
+[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/ARI_VPN_STORE_grup/)
 
 # Donate
 [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)

@@ -113,7 +113,7 @@ echo -e "\e[1;32m Client Name \e[0m: $Name"
 echo -e "\e[1;32m Expired     \e[0m: $Exp2"
 echo -e "\e[1;33m -------------------------------------------------\e[0m"
 echo -e   ""
-echo -e "\e[1;36m --------------------t.me/givpn-------------------\e[0m"
+echo -e "\e[1;36m --------------------t.me/ARI_VPN_STORE-------------------\e[0m"
 echo -e   ""
 read -p " Select menu :  "  opt
 echo -e   ""
