@@ -75,11 +75,6 @@
 - Optional [install Panel Webmin + ADS Block](https://github.com/givpn/AutoScriptXray/tree/master/helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
 - Optional [install Bot Telegram Xolpanel](https://github.com/givpn/AutoScriptXray/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
-# Menu
-![Service Status](https://raw.githubusercontent.com/arivpnstores/AutoScriptXray/main/image/menu.png)
-
-# Service Status
-![Service Status](https://raw.githubusercontent.com/arivpnstores/AutoScriptXray/main/image/service.png)
 
 # [Step Install]
 - Step 1 for (debian) please update first
@@ -93,15 +88,12 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/ARI_VPN_STORE/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/ARI_VPN_STORE_grup/)
+[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/RAJA_VPN_STORE/)
 
 # Donate
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/arivpnstores/AutoScriptXray/main/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-# List Donate
-[![donate button](https://img.shields.io/badge/List-Donate-green)](https://github.com/givpn/donate)
+[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://telegra.ph/TRANFER-VIA-QRIS-12-08)
+
+
 
 <!-- <a href="https://www.digitalocean.com/?refcode=8a474003bf18&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a> -->
 
